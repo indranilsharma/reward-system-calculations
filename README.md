@@ -10,11 +10,11 @@ No points for the first $50 of a transaction.
 2 points per dollar for the amount over $100.
 
 ## Tech Stack
-1.Java 17
-2.Build systems:Maven
-3.H2 Inmemory databse
-4.Spring Boot 3.5
-5.Mockito 5.2
+Java 17
+Build systems:Maven
+H2 Inmemory databse
+Spring Boot 3.5
+Mockito 5.2
 
 ## How to Run 
 No Tomcat or JBoss installation is necessary
