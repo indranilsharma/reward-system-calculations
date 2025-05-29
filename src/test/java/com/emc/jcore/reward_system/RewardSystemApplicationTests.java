@@ -46,7 +46,9 @@ class RewardSystemApplicationTests {
         assertEquals("C002", response.getCustomerId());
         assertEquals(0, response.getTotalPoints());
     }
-
+/**
+ *TC added for null value 
+ */
     @Test
     void testCalculateRewards_nullDate_shouldThrowException() {
         RewordTransaction tx = new RewordTransaction("C003", 100, null);
