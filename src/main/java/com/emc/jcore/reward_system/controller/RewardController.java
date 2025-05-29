@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- *
+ *Controller method for post mapping which is returning list
  */
 @RestController
 @RequestMapping(value = "/api/rewards")
