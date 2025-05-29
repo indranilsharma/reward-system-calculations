@@ -1,7 +1,9 @@
 package com.emc.jcore.reward_system.model;
 
 import java.util.Map;
-
+/**
+ *Model class for response 
+ */
 public class RewardResponse {
 
     private String customerId;
