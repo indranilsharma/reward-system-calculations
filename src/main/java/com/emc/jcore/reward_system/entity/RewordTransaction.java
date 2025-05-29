@@ -2,7 +2,9 @@ package com.emc.jcore.reward_system.entity;
 
 import jakarta.persistence.*;
 import java.time.LocalDate;
-
+/**
+ * Entity class which having ID autogenearated feild  
+ */
 @Entity
 @Table(name = "reword_transactions")
 public class RewordTransaction {
