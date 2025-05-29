@@ -17,7 +17,7 @@ Spring Boot 3.5
 Mockito 5.2
 
 ## How to Run 
-No Tomcat or JBoss installation is necessary. You run it using the ```java -jar``` command.
+No Tomcat or JBoss installation is necessary
 
 * You can build the project and run the tests by running ```mvn clean package```
 * Once successfully built, you can find jar inside target directory
