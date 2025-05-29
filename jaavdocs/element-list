@@ -1,0 +1,6 @@
+com.emc.jcore.reward_system
+com.emc.jcore.reward_system.controller
+com.emc.jcore.reward_system.entity
+com.emc.jcore.reward_system.model
+com.emc.jcore.reward_system.repository
+com.emc.jcore.reward_system.service
